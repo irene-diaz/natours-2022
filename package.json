@@ -1,0 +1,8 @@
+{
+  "name": "natours-2022",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/irene-diaz/natours-2022.git",
+  "author": "iredica <iredica@gmail.com>",
+  "license": "MIT"
+}
